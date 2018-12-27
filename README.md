@@ -1,5 +1,5 @@
 # 代码说明
-该代码的功能实现了对虹膜的分割操作，使用的训练样本图片包含在CASIA-Iris-Interval中，请在使用时更改interface.h里面的文件路径到你下载CASIA-Iris-Interval的
+该代码的功能实现了对虹膜的分割操作，使用的训练样本图片包含在CASIA-Iris-Interval中，请在使用时更改interface.h里面的文件路径（BASE_DIR)到你下载CASIA-Iris-Interval的
 路径上。
 
 # 运行要求
